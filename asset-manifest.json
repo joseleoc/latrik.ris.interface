@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/joseleoc/latrik.ris.interface/static/css/main.b39f08bf.css",
+    "main.js": "/joseleoc/latrik.ris.interface/static/js/main.ae97feae.js",
+    "static/media/ListCheck.svg": "/joseleoc/latrik.ris.interface/static/media/ListCheck.303b486c18106dd7296c7cb0aae35bf2.svg",
+    "static/media/AddPerson.svg": "/joseleoc/latrik.ris.interface/static/media/AddPerson.1dcd62bc767bdce40edf0900b7c9b0fb.svg",
+    "static/media/Calendar.svg": "/joseleoc/latrik.ris.interface/static/media/Calendar.a745cbf57f5593a0a8d010e2c3fc9e37.svg",
+    "static/media/Stats.svg": "/joseleoc/latrik.ris.interface/static/media/Stats.dcaa6373efaee0d5b00803c821dce583.svg",
+    "static/media/Check.svg": "/joseleoc/latrik.ris.interface/static/media/Check.9ff069a751a398b2b5c1ebf46cf2d7c5.svg",
+    "static/media/Settings.svg": "/joseleoc/latrik.ris.interface/static/media/Settings.202f9453347d14a1a7b392629d8466a5.svg",
+    "static/media/TriangleWarning.svg": "/joseleoc/latrik.ris.interface/static/media/TriangleWarning.1318b41487bffa1de62a1ae6ae98552c.svg",
+    "index.html": "/joseleoc/latrik.ris.interface/index.html",
+    "static/media/ArrowSmallRight.svg": "/joseleoc/latrik.ris.interface/static/media/ArrowSmallRight.be753b1821ed118246b8ac5c3ab130e3.svg",
+    "static/media/ArrowSmallLeft.svg": "/joseleoc/latrik.ris.interface/static/media/ArrowSmallLeft.95e3f4719c52f2c07da3dbd508b27a11.svg",
+    "main.b39f08bf.css.map": "/joseleoc/latrik.ris.interface/static/css/main.b39f08bf.css.map",
+    "main.ae97feae.js.map": "/joseleoc/latrik.ris.interface/static/js/main.ae97feae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b39f08bf.css",
+    "static/js/main.ae97feae.js"
+  ]
+}

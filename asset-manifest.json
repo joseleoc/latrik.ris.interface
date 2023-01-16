@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/latrik.ris.interface/static/css/main.b39f08bf.css",
-    "main.js": "/latrik.ris.interface/static/js/main.ea625ff4.js",
-    "static/media/ListCheck.svg": "/latrik.ris.interface/static/media/ListCheck.303b486c18106dd7296c7cb0aae35bf2.svg",
-    "static/media/AddPerson.svg": "/latrik.ris.interface/static/media/AddPerson.1dcd62bc767bdce40edf0900b7c9b0fb.svg",
-    "static/media/Calendar.svg": "/latrik.ris.interface/static/media/Calendar.a745cbf57f5593a0a8d010e2c3fc9e37.svg",
-    "static/media/Stats.svg": "/latrik.ris.interface/static/media/Stats.dcaa6373efaee0d5b00803c821dce583.svg",
-    "static/media/Check.svg": "/latrik.ris.interface/static/media/Check.9ff069a751a398b2b5c1ebf46cf2d7c5.svg",
-    "static/media/Settings.svg": "/latrik.ris.interface/static/media/Settings.202f9453347d14a1a7b392629d8466a5.svg",
-    "static/media/TriangleWarning.svg": "/latrik.ris.interface/static/media/TriangleWarning.1318b41487bffa1de62a1ae6ae98552c.svg",
+    "main.css": "/latrik.ris.interface/static/css/main.d0edeb92.css",
+    "main.js": "/latrik.ris.interface/static/js/main.b2b65ca7.js",
+    "static/media/ListCheck.svg": "/latrik.ris.interface/static/media/ListCheck.19e3723bad60afb5f13b6ea440f73128.svg",
+    "static/media/AddPerson.svg": "/latrik.ris.interface/static/media/AddPerson.5054ee0499b5c1c4bf468c8211fc5c04.svg",
+    "static/media/Calendar.svg": "/latrik.ris.interface/static/media/Calendar.a95c6efcb653d286fb0a815909ade5b0.svg",
+    "static/media/Stats.svg": "/latrik.ris.interface/static/media/Stats.07fc2a9ff1e19a5c182a3c2212653c30.svg",
+    "static/media/Check.svg": "/latrik.ris.interface/static/media/Check.1a067d0f27d742db856e90e11da8101c.svg",
+    "static/media/Settings.svg": "/latrik.ris.interface/static/media/Settings.dac6f9c24665e5ce2e5000d9ddf8122d.svg",
+    "static/media/TriangleWarning.svg": "/latrik.ris.interface/static/media/TriangleWarning.1c357c738d85a9514115e0538635d3cb.svg",
     "index.html": "/latrik.ris.interface/index.html",
-    "static/media/ArrowSmallRight.svg": "/latrik.ris.interface/static/media/ArrowSmallRight.be753b1821ed118246b8ac5c3ab130e3.svg",
-    "static/media/ArrowSmallLeft.svg": "/latrik.ris.interface/static/media/ArrowSmallLeft.95e3f4719c52f2c07da3dbd508b27a11.svg",
-    "main.b39f08bf.css.map": "/latrik.ris.interface/static/css/main.b39f08bf.css.map",
-    "main.ea625ff4.js.map": "/latrik.ris.interface/static/js/main.ea625ff4.js.map"
+    "static/media/ArrowSmallRight.svg": "/latrik.ris.interface/static/media/ArrowSmallRight.d7675375dd9cd66ac7de3cb572d32ddd.svg",
+    "static/media/ArrowSmallLeft.svg": "/latrik.ris.interface/static/media/ArrowSmallLeft.12a52eb45e86667b4b3a63905e1b2f5a.svg",
+    "main.d0edeb92.css.map": "/latrik.ris.interface/static/css/main.d0edeb92.css.map",
+    "main.b2b65ca7.js.map": "/latrik.ris.interface/static/js/main.b2b65ca7.js.map"
   },
   "entrypoints": [
-    "static/css/main.b39f08bf.css",
-    "static/js/main.ea625ff4.js"
+    "static/css/main.d0edeb92.css",
+    "static/js/main.b2b65ca7.js"
   ]
 }

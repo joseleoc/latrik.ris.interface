@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/latrik.ris.interface/static/css/main.6c4bd7bc.css",
-    "main.js": "/latrik.ris.interface/static/js/main.c16d956f.js",
+    "main.css": "/latrik.ris.interface/static/css/main.c781259f.css",
+    "main.js": "/latrik.ris.interface/static/js/main.34ab3067.js",
     "static/media/People.svg": "/latrik.ris.interface/static/media/People.77fd58ce5a3848b56dedd43df8e45386.svg",
     "static/media/ListCheck.svg": "/latrik.ris.interface/static/media/ListCheck.3abacf4e12d8629c4da84af8d9c45870.svg",
     "static/media/AddPerson.svg": "/latrik.ris.interface/static/media/AddPerson.b6ae484723c3fabf0b591989e15a2348.svg",
     "static/media/Document.svg": "/latrik.ris.interface/static/media/Document.0a8dba244994b9b5804485849ed8f51d.svg",
-    "static/media/Stats.svg": "/latrik.ris.interface/static/media/Stats.07fc2a9ff1e19a5c182a3c2212653c30.svg",
+    "static/media/Info.svg": "/latrik.ris.interface/static/media/Info.6c3e937421cd257bb865f94ca330d38e.svg",
     "static/media/Settings.svg": "/latrik.ris.interface/static/media/Settings.dac6f9c24665e5ce2e5000d9ddf8122d.svg",
-    "static/media/Check.svg": "/latrik.ris.interface/static/media/Check.1e87d4e27f9865b7e3fddd8c94daa312.svg",
+    "static/media/Check.svg": "/latrik.ris.interface/static/media/Check.356c24fb81f1b57cff9a113f55c669c2.svg",
     "index.html": "/latrik.ris.interface/index.html",
     "static/media/ArrowSmallLeft.svg": "/latrik.ris.interface/static/media/ArrowSmallLeft.7ee4739ecca1c64f6d28903ff2cd2e4c.svg",
-    "main.6c4bd7bc.css.map": "/latrik.ris.interface/static/css/main.6c4bd7bc.css.map",
-    "main.c16d956f.js.map": "/latrik.ris.interface/static/js/main.c16d956f.js.map"
+    "main.c781259f.css.map": "/latrik.ris.interface/static/css/main.c781259f.css.map",
+    "main.34ab3067.js.map": "/latrik.ris.interface/static/js/main.34ab3067.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c4bd7bc.css",
-    "static/js/main.c16d956f.js"
+    "static/css/main.c781259f.css",
+    "static/js/main.34ab3067.js"
   ]
 }
